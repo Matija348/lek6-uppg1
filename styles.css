@@ -1,0 +1,48 @@
+body{
+    display: grid;
+    grid-template-columns: 20% 80%;
+    grid-template-rows: 20vh 60vh 20vh;
+    grid-gap: 5px;
+}
+
+div{
+    border: 2px solid black;
+    border-radius: 5px;
+    max-width: 99%;
+    
+}
+
+header{
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+}
+
+maindiv{
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+}
+
+main{
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+    display: grid;
+    grid-template-rows: ;
+    grid-gap: 5px;
+    padding: 5px;
+}
+
+ru{
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+}
+
+footer{
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+}
+
